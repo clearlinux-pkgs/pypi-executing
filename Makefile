@@ -1,5 +1,5 @@
 PKG_NAME := pypi-executing
-URL = https://files.pythonhosted.org/packages/48/5b/f636517f40fc5afb720354236cea729de30d440f06bdafb7f33ca969956c/executing-1.1.1.tar.gz
+URL = https://files.pythonhosted.org/packages/8f/ac/89ff37d8594b0eef176b7cec742ac868fef853b8e18df0309e3def9f480b/executing-1.2.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
