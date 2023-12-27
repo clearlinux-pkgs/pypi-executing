@@ -7,7 +7,7 @@
 #
 Name     : pypi-executing
 Version  : 2.0.1
-Release  : 23
+Release  : 24
 URL      : https://files.pythonhosted.org/packages/08/41/85d2d28466fca93737592b7f3cc456d1cfd6bcd401beceeba17e8e792b50/executing-2.0.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/08/41/85d2d28466fca93737592b7f3cc456d1cfd6bcd401beceeba17e8e792b50/executing-2.0.1.tar.gz
 Summary  : Get the currently executing AST node of a frame, and other information
